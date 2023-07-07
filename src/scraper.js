@@ -1,6 +1,5 @@
 import axios from "axios";
 import { load } from "cheerio";
-import pretty from "pretty";
 
 export default async function ScrapeGoogleFormData(formId) {
     try {
