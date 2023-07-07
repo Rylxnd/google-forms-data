@@ -1,6 +1,6 @@
 {
   "name": "google-forms-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for getting a google form object",
   "main": "index.js",
   "type": "module",
@@ -10,8 +10,8 @@
     "url": "https://github.com/Rylxnd/google-forms-data"
   },
   "bugs": {
-		"url": "https://github.com/Rylxnd/google-forms-data/issues"
-	},
+    "url": "https://github.com/Rylxnd/google-forms-data/issues"
+  },
   "keywords": [
     "google",
     "google forms"
