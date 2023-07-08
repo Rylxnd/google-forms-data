@@ -1,6 +1,6 @@
 {
   "name": "google-forms-data",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "A module for getting a google form object",
   "main": "index.js",
   "type": "module",
