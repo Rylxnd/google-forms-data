@@ -1,5 +1,5 @@
-import ScrapeGoogleFormData from "./src/scraper.js"
-import ParseFormData from "./src/parser.js"
+import ScrapeGoogleFormData from './src/scraper.js'
+import ParseFormData from './src/parser.js'
 
 /**
  * 

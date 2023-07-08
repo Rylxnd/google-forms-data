@@ -9,11 +9,13 @@ export class Question {
 }
 
 export class Form {
-    constructor(name, description, responseMessage, closedMessage) {
+    constructor(name, description, responseMessage, closedMessage, imageUrl, themeColor) {
         this.name = name;
         this.description = description;
         this.responseMessage = responseMessage;
         this.closedMessage = closedMessage
+        this.headerImage = imageUrl;
+        this.themeColorRGB = themeColor;
 
         this.questions = [];
     }

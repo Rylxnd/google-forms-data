@@ -27,6 +27,8 @@ GetGoogleFormData("FORM-ID-HERE").then(form => {
       description: 'My super cool description',
       responseMessage: 'Your super cool response has been recorded',
       closedMessage: 'My super cool form is closed :(',
+      headerImage: null,
+      themeColorRGB: [ 76, 175, 80 ],
       questions: [
         {
           name: 'Short Text Question',
